@@ -1,2 +1,2 @@
-# bdrelacionales
-Bases de datos relacionales
+# Osman Eden Quiñonez Saenz
+4AVP
